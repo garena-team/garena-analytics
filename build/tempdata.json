@@ -1,0 +1,3564 @@
+[
+  {
+    "Date Created": {
+      "seconds": 1715166031,
+      "nanoseconds": 125652000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "e66a585e-f3e9-47e6-9027-2e81cfaf9768",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Level ID": "6403ea85-8900-40c0-b06f-06bbc2477520",
+    "Time": "00:00:16.3515520"
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "de4434eb-2aa8-40bb-bfc3-6e980032446a",
+    "Display Name": "Unknown",
+    "Time": "00:00:09.3604410",
+    "Date Created": {
+      "seconds": 1715167110,
+      "nanoseconds": 175650000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "6403ea85-8900-40c0-b06f-06bbc2477520",
+    "Profile ID": "226eafd0-078b-49f9-8c12-07e139bf2547",
+    "Date Created": {
+      "seconds": 1715084918,
+      "nanoseconds": 710068000
+    },
+    "Time": "00:00:06.5375090"
+  },
+  {
+    "Time": "00:00:17.1258320",
+    "Level ID": "5c486904-33bc-4600-9b2d-29a967d87f49",
+    "Profile ID": "e66a585e-f3e9-47e6-9027-2e81cfaf9768",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715166011,
+      "nanoseconds": 296656000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715081408,
+      "nanoseconds": 418437000
+    },
+    "Time": "00:00:13.2583770",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "05b042e7-909c-40ee-9e78-e45bd95b4a59",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Time": "00:00:21.8483250",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715069144,
+      "nanoseconds": 580552000
+    },
+    "Level ID": "5c486904-33bc-4600-9b2d-29a967d87f49"
+  },
+  {
+    "Time": "00:00:04.7470305",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1714461389,
+      "nanoseconds": 296891000
+    },
+    "Level ID": "4e011437-9ec7-450d-8ae7-7a3eb2711e0d",
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7"
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715166897,
+      "nanoseconds": 190700000
+    },
+    "Time": "00:00:13.1438240",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Display Name": "Unknown",
+    "Level ID": "e1127d3b-e473-4eb3-ab27-7fe8e4793af2"
+  },
+  {
+    "Display Name": "Unknown",
+    "Time": "00:00:05.3183850",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "c49fbf1c-e142-42ec-bed0-85086dc96a76",
+    "Level ID": "5c43e784-cafd-410f-9bb6-f80fe4ac5c27",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715051517,
+      "nanoseconds": 977569000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1715165989,
+      "nanoseconds": 75078000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 2,
+      "Max Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Level ID": "fa790b9f-3be2-45df-8695-a9642fc83d99",
+    "Time": "00:04:17.1975270",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 0
+    },
+    "Profile ID": "e66a585e-f3e9-47e6-9027-2e81cfaf9768",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 8
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715167031,
+      "nanoseconds": 269544000
+    },
+    "Time": "00:00:14.2798380",
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "0bc18a32-915d-4ee8-9777-9989a9f6c745"
+  },
+  {
+    "Level ID": "fa790b9f-3be2-45df-8695-a9642fc83d99",
+    "Profile ID": "226eafd0-078b-49f9-8c12-07e139bf2547",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715084888,
+      "nanoseconds": 388904000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Time": "00:00:05.6451400"
+  },
+  {
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Time": "00:00:34.4180640",
+    "Date Created": {
+      "seconds": 1715084878,
+      "nanoseconds": 408362000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "5a773d6e-3141-4f68-8df1-99336dacc8af",
+    "Profile ID": "226eafd0-078b-49f9-8c12-07e139bf2547",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 1,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:38.0197450",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "28de43d2-8460-419a-b66c-71f6e5108f02",
+    "Date Created": {
+      "seconds": 1715157507,
+      "nanoseconds": 716251000
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Time": "00:00:08.2581190",
+    "Level ID": "5852f7c8-915c-483a-bde1-8132de3584eb",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715167043,
+      "nanoseconds": 140587000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9"
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "4adc5fea-c63e-48e0-aa7a-df1841504400",
+    "Display Name": "[FORCED]Unknown",
+    "Time": "00:00:07.0795150",
+    "Date Created": {
+      "seconds": 1715167098,
+      "nanoseconds": 825250000
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "edae6630-e791-4c53-bfa2-572969e4da38",
+    "Date Created": {
+      "seconds": 1715063610,
+      "nanoseconds": 997802000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Time": "00:00:03.7454740",
+    "Display Name": "Unknown",
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c"
+  },
+  {
+    "Time": "00:00:12.2880210",
+    "Level ID": "d5428088-9a66-4f82-8bcb-7889e1fcfa1f",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715166973,
+      "nanoseconds": 641188000
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1715083069,
+      "nanoseconds": 80083000
+    },
+    "Level ID": "b5e3976f-3cd5-494e-8a2b-4750909da0a8",
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Time": "00:00:12.6838140",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:09.0237590",
+    "Date Created": {
+      "seconds": 1715165328,
+      "nanoseconds": 16747000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "218f06e0-11fb-4cca-86fc-d25c8eb43714"
+  },
+  {
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715063676,
+      "nanoseconds": 674134000
+    },
+    "Time": "00:00:35.7843660",
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 4
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "715635f3-8ab7-40c8-88fc-ef81897ef851",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "10259b70-9bf1-41e2-ba21-f7c61f341e7c",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1714464426,
+      "nanoseconds": 559238000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Time": "00:00:09.8979498",
+    "Display Name": "Unknown"
+  },
+  {
+    "Display Name": "Unknown",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 9
+    },
+    "Date Created": {
+      "seconds": 1715164989,
+      "nanoseconds": 277790000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "02:01:29.3566760",
+    "Level ID": "7efdf679-dc72-4164-b45d-2db3f302ee14",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    }
+  },
+  {
+    "Time": "00:00:04.9844960",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Level ID": "b6b911be-3c2e-4ef0-aaab-9fb610b29cf9",
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715063621,
+      "nanoseconds": 821424000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Display Name": "Unknown",
+    "Level ID": "b4a170c9-72c9-4513-b8c3-d62aa0b482c3",
+    "Time": "00:00:10.5786529",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1714464142,
+      "nanoseconds": 505531000
+    }
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Date Created": {
+      "seconds": 1715081237,
+      "nanoseconds": 743175000
+    },
+    "Time": "00:03:06.6867340",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Current Charges": 12,
+      "Max Charges": 20
+    },
+    "Display Name": "Unknown",
+    "Level ID": "6c29c07e-6901-4852-8596-83406e0e2430"
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Date Created": {
+      "seconds": 1714662830,
+      "nanoseconds": 491705000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Time": "00:00:11.4540456",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "048a4f19-f051-491d-bdb4-9e50fab16879"
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Level ID": "6b2543d7-b5ee-47fd-9934-7b818475e2e3",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:16.0352020",
+    "Date Created": {
+      "seconds": 1715167001,
+      "nanoseconds": 384131000
+    },
+    "Display Name": "Unknown"
+  },
+  {
+    "Time": "00:00:13.8596790",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "ed7c5b99-4610-4ff0-8d38-62c3ce577522",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715165304,
+      "nanoseconds": 940829000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Date Created": {
+      "seconds": 1715081392,
+      "nanoseconds": 319765000
+    },
+    "Level ID": "7a4dd08b-147c-47ca-8ec8-5f49f145126b",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:14.2284480",
+    "Display Name": "Unknown"
+  },
+  {
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715157463,
+      "nanoseconds": 313292000
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:12.6864690",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "821ff651-6f6c-4bbc-8468-d2fc608f745f",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Time": "00:01:08.8099510",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715166374,
+      "nanoseconds": 210783000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 14
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Profile ID": "55e2ab09-6680-4a3e-823a-5d46f1a1c1fd",
+    "Level ID": "fa790b9f-3be2-45df-8695-a9642fc83d99"
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 19
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715068998,
+      "nanoseconds": 628296000
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Time": "00:02:12.7367640",
+    "Level ID": "5a773d6e-3141-4f68-8df1-99336dacc8af"
+  },
+  {
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Time": "00:00:41.2914840",
+    "Level ID": "eb37b6ea-adf3-4c9e-a7e6-91b0db664331",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Date Created": {
+      "seconds": 1715165187,
+      "nanoseconds": 432416000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 9
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:18.2666270",
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c",
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715063697,
+      "nanoseconds": 381691000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Level ID": "59890d0d-4357-499f-9e6e-efa1f008c038",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1715068815,
+      "nanoseconds": 832417000
+    },
+    "Time": "00:00:10.6797580",
+    "Level ID": "30f406c9-5c8e-4241-8aaa-142754d782b9",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Time": "00:00:18.5932833",
+    "Date Created": {
+      "seconds": 1714455355,
+      "nanoseconds": 880566000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 5,
+      "Max Charges": 10
+    },
+    "Level ID": "",
+    "Powerup - Clear": {
+      "Current Charges": 3,
+      "Max Charges": 3
+    },
+    "Powerup - Replace": {
+      "Current Charges": 0,
+      "Max Charges": 3
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 17
+    },
+    "Level ID": "c9f990a6-bc54-40a6-be80-db78944ea297",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Date Created": {
+      "seconds": 1715081266,
+      "nanoseconds": 454760000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:23.3077890",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Display Name": "Unknown"
+  },
+  {
+    "Display Name": "Unknown",
+    "Time": "00:00:11.6829956",
+    "Date Created": {
+      "seconds": 1714450792,
+      "nanoseconds": 637323000
+    },
+    "Level ID": "",
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7"
+  },
+  {
+    "Time": "00:00:20.9778940",
+    "Level ID": "4c9787f5-d89a-4bc7-8ecb-1dc87e6210a9",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Display Name": "[FORCED]Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715081465,
+      "nanoseconds": 335686000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Level ID": "836b1c75-0e59-4a4f-8243-a9a055ed0ae6",
+    "Date Created": {
+      "seconds": 1715080390,
+      "nanoseconds": 852136000
+    },
+    "Time": "00:00:15.4025340",
+    "Display Name": "[FORCED]Unknown",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Time": "00:00:13.4211390",
+    "Level ID": "fc64508e-3f9f-4a50-867c-2963843316fa",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1714464414,
+      "nanoseconds": 773429000
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 9,
+      "Max Charges": 10
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Level ID": "599ace6f-8184-42ad-8c6f-f460f9e82c33",
+    "Time": "00:00:18.0689730",
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715157531,
+      "nanoseconds": 936237000
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9"
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Date Created": {
+      "seconds": 1715068737,
+      "nanoseconds": 168614000
+    },
+    "Level ID": "5a773d6e-3141-4f68-8df1-99336dacc8af",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 15
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:59.3686930"
+  },
+  {
+    "Date Created": {
+      "seconds": 1714446594,
+      "nanoseconds": 738781000
+    },
+    "Display Name": "Unknown",
+    "Profile ID": "adbcfcd2-c05e-4370-941f-ef5ffb8477c6",
+    "Time": "00:00:17.5988979",
+    "Level ID": ""
+  },
+  {
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715157410,
+      "nanoseconds": 33877000
+    },
+    "Level ID": "190217ce-75b9-4c40-8026-ecb757c68bb9",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:28.2224380",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 18
+    }
+  },
+  {
+    "Level ID": "afc74233-8682-4304-aee5-e2b9ff086582",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715166947,
+      "nanoseconds": 243277000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Time": "00:00:08.5708310",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Time": "00:00:10.6977040",
+    "Date Created": {
+      "seconds": 1715167014,
+      "nanoseconds": 2132000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Level ID": "0962a8a4-8c71-4d31-9332-d1d0f3fddf9e"
+  },
+  {
+    "Display Name": "Unknown",
+    "Level ID": "5a773d6e-3141-4f68-8df1-99336dacc8af",
+    "Powerup - Replace": {
+      "Current Charges": 15,
+      "Max Charges": 20
+    },
+    "Time": "00:00:54.5084850",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "52047d23-585f-4c1b-8ae8-cdb602ec6bb3",
+    "Date Created": {
+      "seconds": 1715156936,
+      "nanoseconds": 502788000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715068765,
+      "nanoseconds": 299835000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:14.5606880",
+    "Level ID": "fa790b9f-3be2-45df-8695-a9642fc83d99"
+  },
+  {
+    "Date Created": {
+      "seconds": 1715070195,
+      "nanoseconds": 19909000
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Time": "00:00:34.6875300",
+    "Powerup - Replace": {
+      "Current Charges": 17,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "8739ad28-bcfe-40dd-beb2-e0f6e6ec2969"
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715166983,
+      "nanoseconds": 591169000
+    },
+    "Time": "00:00:08.0055270",
+    "Level ID": "5c9e7f30-c176-4af0-b300-930e7560d498",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1714455047,
+      "nanoseconds": 168543000
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Level ID": "",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 3,
+      "Max Charges": 3
+    },
+    "Time": "00:00:05.8228005",
+    "Powerup - Replace": {
+      "Current Charges": 3,
+      "Max Charges": 3
+    }
+  },
+  {
+    "Profile ID": "55e2ab09-6680-4a3e-823a-5d46f1a1c1fd",
+    "Level ID": "5c486904-33bc-4600-9b2d-29a967d87f49",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:19.3549880",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715166395,
+      "nanoseconds": 926957000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Display Name": "Unknown"
+  },
+  {
+    "Time": "00:02:37.2467630",
+    "Date Created": {
+      "seconds": 1715070152,
+      "nanoseconds": 997211000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 8,
+      "Max Charges": 10
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Display Name": "[FORCED]Unknown",
+    "Level ID": "836b1c75-0e59-4a4f-8243-a9a055ed0ae6",
+    "Powerup - Clear": {
+      "Current Charges": 4,
+      "Max Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 16
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1715154291,
+      "nanoseconds": 18617000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 0
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 9,
+      "Max Charges": 10
+    },
+    "Time": "20:48:19.9803080",
+    "Profile ID": "18cb090c-237e-49ff-b545-992ba18bb539",
+    "Display Name": "Unknown",
+    "Level ID": "229cf217-e700-4df1-af7c-264fdc337b08"
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "5ee5a3d2-2fa3-41d7-824a-642f0d306461",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 18
+    },
+    "Date Created": {
+      "seconds": 1715165438,
+      "nanoseconds": 202940000
+    },
+    "Display Name": "[FORCED]Unknown",
+    "Time": "00:00:29.3100480",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9"
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Level ID": "29a2d608-a55e-4126-8878-ebb96add3d38",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Time": "00:00:24.5943620",
+    "Date Created": {
+      "seconds": 1715165017,
+      "nanoseconds": 634003000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Display Name": "Unknown"
+  },
+  {
+    "Display Name": "Unknown",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "a3dcadac-7395-4283-979c-9c0472608f94",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Time": "00:00:09.7519560",
+    "Date Created": {
+      "seconds": 1715167069,
+      "nanoseconds": 762380000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 0,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:01:46.0300620",
+    "Date Created": {
+      "seconds": 1715082986,
+      "nanoseconds": 22935000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Level ID": "edce440e-7fc3-4b70-8339-32dfedb853eb"
+  },
+  {
+    "Time": "00:00:38.8120750",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "352d84a3-3970-4648-a51d-9e095e412006",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715080320,
+      "nanoseconds": 642332000
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1714461437,
+      "nanoseconds": 767042000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:08.5494431",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Level ID": "d56b7bf4-e702-46b0-9674-632b078029d4",
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Display Name": "Unknown"
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715165275,
+      "nanoseconds": 948711000
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Display Name": "Unknown",
+    "Level ID": "39985aac-c1bb-4296-9bce-5a120d777ebb",
+    "Time": "00:00:26.3596890",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715157025,
+      "nanoseconds": 652953000
+    },
+    "Time": "00:01:21.8155550",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 14,
+      "Max Charges": 20
+    },
+    "Level ID": "fa790b9f-3be2-45df-8695-a9642fc83d99",
+    "Profile ID": "52047d23-585f-4c1b-8ae8-cdb602ec6bb3",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 0,
+      "Max Charges": 10
+    },
+    "Profile ID": "18cb090c-237e-49ff-b545-992ba18bb539",
+    "Level ID": "dbff16d6-7689-4260-913a-8a5f4afb8b49",
+    "Date Created": {
+      "seconds": 1715156449,
+      "nanoseconds": 167902000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 0
+    },
+    "Time": "00:07:37.3849550",
+    "Display Name": "[FORCED]Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 1
+    }
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:24.5033140",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715157585,
+      "nanoseconds": 328215000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 18
+    },
+    "Level ID": "36e8f3d4-c9fd-4af3-b8d6-b42b93a219b6"
+  },
+  {
+    "Level ID": "771c865f-823c-49ec-802c-13610878a127",
+    "Date Created": {
+      "seconds": 1715165406,
+      "nanoseconds": 182577000
+    },
+    "Display Name": "[FORCED]Unknown",
+    "Time": "00:00:21.3627010",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Display Name": "Unknown",
+    "Level ID": "34e9f9bd-1166-4540-8650-0795a257cb6f",
+    "Time": "00:00:24.0770800",
+    "Date Created": {
+      "seconds": 1715083015,
+      "nanoseconds": 467238000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "30f406c9-5c8e-4241-8aaa-142754d782b9",
+    "Display Name": "Unknown",
+    "Profile ID": "e66a585e-f3e9-47e6-9027-2e81cfaf9768",
+    "Time": "00:00:16.9601780",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 19
+    },
+    "Date Created": {
+      "seconds": 1715166050,
+      "nanoseconds": 356361000
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "6d7c83f8-5bd0-4364-bff0-69242fea3d61",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715080644,
+      "nanoseconds": 962354000
+    },
+    "Time": "00:01:11.2453750"
+  },
+  {
+    "Profile ID": "55e2ab09-6680-4a3e-823a-5d46f1a1c1fd",
+    "Time": "00:00:32.6802430",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "8e564d89-3d8b-4a1a-9050-f4a036055bf3",
+    "Date Created": {
+      "seconds": 1715166507,
+      "nanoseconds": 65283000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1715063583,
+      "nanoseconds": 188919000
+    },
+    "Time": "00:00:03.8357110",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "ad0be612-9ccd-4d5c-836e-3694ab55d5c5",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c"
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "acfb62d7-fc52-459c-b055-a7a1918a77f2",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Date Created": {
+      "seconds": 1715166881,
+      "nanoseconds": 921916000
+    },
+    "Time": "00:00:11.1743870",
+    "Display Name": "[FORCED]Unknown"
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Level ID": "fa790b9f-3be2-45df-8695-a9642fc83d99",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715069113,
+      "nanoseconds": 268149000
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Time": "00:01:13.4219150",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:19.1221810",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "6403ea85-8900-40c0-b06f-06bbc2477520",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 19
+    },
+    "Date Created": {
+      "seconds": 1715069169,
+      "nanoseconds": 839774000
+    },
+    "Display Name": "Unknown"
+  },
+  {
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Time": "00:00:10.6262430",
+    "Level ID": "7a4d60ea-04ac-4631-b271-27cf925c4b9f",
+    "Date Created": {
+      "seconds": 1715166959,
+      "nanoseconds": 593464000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715166847,
+      "nanoseconds": 73486000
+    },
+    "Level ID": "0d60a589-04fb-4fef-a6af-0cb181fe78e0",
+    "Display Name": "Unknown",
+    "Time": "00:00:08.2624090",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715063575,
+      "nanoseconds": 474845000
+    },
+    "Time": "00:00:08.2218170",
+    "Level ID": "e7413750-72e5-49ab-9ee7-1da08b80936d",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 17,
+      "Max Charges": 20
+    },
+    "Time": "00:01:03.9635940",
+    "Level ID": "5a773d6e-3141-4f68-8df1-99336dacc8af",
+    "Profile ID": "e66a585e-f3e9-47e6-9027-2e81cfaf9768",
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715165725,
+      "nanoseconds": 130245000
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715081485,
+      "nanoseconds": 224788000
+    },
+    "Time": "00:00:17.5605040",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "c0fe9c6f-92cc-4f74-8dab-5b2e16c6221b"
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 10,
+      "Max Charges": 20
+    },
+    "Profile ID": "18cb090c-237e-49ff-b545-992ba18bb539",
+    "Level ID": "5a773d6e-3141-4f68-8df1-99336dacc8af",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715078950,
+      "nanoseconds": 659793000
+    },
+    "Time": "00:00:42.3076460",
+    "Display Name": "Unknown"
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Time": "00:00:31.8026380",
+    "Date Created": {
+      "seconds": 1715081442,
+      "nanoseconds": 220775000
+    },
+    "Level ID": "81686b3b-bdb7-4066-a754-8cdea0c111cd",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:14.8515900",
+    "Date Created": {
+      "seconds": 1715157697,
+      "nanoseconds": 268095000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "0fe1151b-91d5-44d8-9cfc-dbe44a233482",
+    "Display Name": "[FORCED]Unknown"
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715166290,
+      "nanoseconds": 565533000
+    },
+    "Time": "00:00:47.5875430",
+    "Display Name": "Unknown",
+    "Profile ID": "55e2ab09-6680-4a3e-823a-5d46f1a1c1fd",
+    "Level ID": "5a773d6e-3141-4f68-8df1-99336dacc8af",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 19
+    }
+  },
+  {
+    "Time": "00:00:28.7228020",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 15,
+      "Max Charges": 20
+    },
+    "Level ID": "8e564d89-3d8b-4a1a-9050-f4a036055bf3",
+    "Date Created": {
+      "seconds": 1715084957,
+      "nanoseconds": 915409000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Profile ID": "226eafd0-078b-49f9-8c12-07e139bf2547"
+  },
+  {
+    "Level ID": "7c45c5ec-a2e0-4fff-b863-6bcc6022a189",
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c",
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715063638,
+      "nanoseconds": 488142000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 18,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:14.2397090"
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715166923,
+      "nanoseconds": 132255000
+    },
+    "Time": "00:00:12.2770970",
+    "Level ID": "a4a716a8-ad5e-40ec-858f-f60a5efb03ad",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Level ID": "ced712a7-80e0-4169-b3ee-8fb9519a603b",
+    "Display Name": "Unknown",
+    "Time": "00:00:10.2360073",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1714464438,
+      "nanoseconds": 689275000
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1715166868,
+      "nanoseconds": 181214000
+    },
+    "Level ID": "034c375e-3dc7-45fb-a665-5c91f9fe2d64",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:18.4395350",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Display Name": "[FORCED]Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 15,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Time": "00:02:36.7905310",
+    "Level ID": "618dc24c-b250-4ef7-aa85-f7d6107a15ed",
+    "Date Created": {
+      "seconds": 1715082536,
+      "nanoseconds": 742866000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Display Name": "[FORCED]Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 7
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1714464388,
+      "nanoseconds": 287675000
+    },
+    "Level ID": "6055c3bb-ca01-4b1f-b578-140202bb6616",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Time": "00:00:09.2194839",
+    "Display Name": "Unknown"
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 16
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715080480,
+      "nanoseconds": 805264000
+    },
+    "Time": "00:01:01.0625310",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Level ID": "1ddc132d-4851-4926-9a49-cb9c8ba29eca"
+  },
+  {
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715165344,
+      "nanoseconds": 84665000
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:14.3571990",
+    "Level ID": "4145c3df-5051-4a98-b01a-26dd5599c653"
+  },
+  {
+    "Profile ID": "18cb090c-237e-49ff-b545-992ba18bb539",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 0
+    },
+    "Time": "00:02:47.6674870",
+    "Date Created": {
+      "seconds": 1715079388,
+      "nanoseconds": 151228000
+    },
+    "Display Name": "[FORCED]Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 0
+    },
+    "Level ID": "8e564d89-3d8b-4a1a-9050-f4a036055bf3",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 2
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Display Name": "Unknown",
+    "Level ID": "30f406c9-5c8e-4241-8aaa-142754d782b9",
+    "Date Created": {
+      "seconds": 1715069186,
+      "nanoseconds": 308252000
+    },
+    "Time": "00:00:13.2163650",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1"
+  },
+  {
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Level ID": "a56e2915-7b7e-4ebc-b6d2-682e8b3fc816",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715081360,
+      "nanoseconds": 352921000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Display Name": "Unknown",
+    "Time": "00:00:22.1937350"
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "96089dd3-68b1-49e7-90bf-65004a349613",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Time": "00:00:09.6951280",
+    "Date Created": {
+      "seconds": 1715166908,
+      "nanoseconds": 822722000
+    },
+    "Display Name": "[FORCED]Unknown",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "e08870a7-26ac-4d37-be2f-00d5c7c6e3a0",
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Time": "00:00:11.1144508",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1714464451,
+      "nanoseconds": 423491000
+    },
+    "Display Name": "Unknown"
+  },
+  {
+    "Time": "00:00:49.3696850",
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715079121,
+      "nanoseconds": 488638000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 9
+    },
+    "Powerup - Replace": {
+      "Current Charges": 15,
+      "Max Charges": 20
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "18cb090c-237e-49ff-b545-992ba18bb539",
+    "Level ID": "5c486904-33bc-4600-9b2d-29a967d87f49"
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Level ID": "b5e3976f-3cd5-494e-8a2b-4750909da0a8",
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715081375,
+      "nanoseconds": 690600000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Time": "00:00:13.1346200"
+  },
+  {
+    "Display Name": "Unknown",
+    "Time": "00:00:24.4314799",
+    "Date Created": {
+      "seconds": 1714464477,
+      "nanoseconds": 751234000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Level ID": "fab84bc7-e3ff-400a-bc93-84df46dae5c6"
+  },
+  {
+    "Time": "00:00:08.9850908",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Display Name": "Unknown",
+    "Level ID": "a8c6e22d-a457-4503-a984-1ea686bf3949",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1714464399,
+      "nanoseconds": 95027000
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 12
+    },
+    "Date Created": {
+      "seconds": 1715080280,
+      "nanoseconds": 398070000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:01:00.8234480",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "229cf217-e700-4df1-af7c-264fdc337b08"
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Time": "00:00:43.1030860",
+    "Level ID": "5c7db754-9065-4b24-a7a9-662a3a8f3a90",
+    "Date Created": {
+      "seconds": 1715157665,
+      "nanoseconds": 959917000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Display Name": "[FORCED]Unknown"
+  },
+  {
+    "Display Name": "Unknown",
+    "Level ID": "23c08d73-4c20-4acb-97a3-395e0a8a1038",
+    "Time": "00:00:11.3880720",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Date Created": {
+      "seconds": 1715167143,
+      "nanoseconds": 825832000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Level ID": "e07645b1-f429-41ac-83f5-da328b2a69ab",
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c",
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715063591,
+      "nanoseconds": 422930000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Time": "00:00:04.2186420",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715084927,
+      "nanoseconds": 354996000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 18,
+      "Max Charges": 20
+    },
+    "Profile ID": "226eafd0-078b-49f9-8c12-07e139bf2547",
+    "Time": "00:00:06.7778710",
+    "Level ID": "30f406c9-5c8e-4241-8aaa-142754d782b9",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Time": "00:00:08.9508530",
+    "Level ID": "7c50a462-5245-41ab-be1c-8e8c6bafa6f9",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715056490,
+      "nanoseconds": 206982000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Profile ID": "63ce3581-6175-4714-8c36-e4ad2488aaa7"
+  },
+  {
+    "Time": "00:01:28.2064770",
+    "Date Created": {
+      "seconds": 1715080571,
+      "nanoseconds": 261238000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Level ID": "47247d6d-9c60-4269-8892-e740c6d82055",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 18
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 12
+    },
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1715166432,
+      "nanoseconds": 269516000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Profile ID": "55e2ab09-6680-4a3e-823a-5d46f1a1c1fd",
+    "Time": "00:00:28.7805100",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Level ID": "6403ea85-8900-40c0-b06f-06bbc2477520"
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:41.2947190",
+    "Date Created": {
+      "seconds": 1715081310,
+      "nanoseconds": 239829000
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "edce440e-7fc3-4b70-8339-32dfedb853eb",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 16
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:19.5139999",
+    "Date Created": {
+      "seconds": 1714461423,
+      "nanoseconds": 906889000
+    },
+    "Level ID": "bd9fbcc2-1abb-492d-8b1f-08d11ddb7167",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 19
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "eb055bdf-3b4f-4ce0-9800-579e1df9feaf",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:04.7613992",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Date Created": {
+      "seconds": 1714461394,
+      "nanoseconds": 824199000
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1714461376,
+      "nanoseconds": 919934000
+    },
+    "Display Name": "Unknown",
+    "Time": "00:00:08.0175499",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Level ID": "d56b7bf4-e702-46b0-9674-632b078029d4",
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1715069990,
+      "nanoseconds": 40167000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 8
+    },
+    "Powerup - Undo": {
+      "Current Charges": 9,
+      "Max Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Level ID": "dbff16d6-7689-4260-913a-8a5f4afb8b49",
+    "Time": "00:02:32.3597690"
+  },
+  {
+    "Level ID": "e8894704-f2ba-4684-95f8-7f4673e16c4e",
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:17.7419560",
+    "Date Created": {
+      "seconds": 1715167089,
+      "nanoseconds": 342931000
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Time": "00:00:41.4207140",
+    "Level ID": "8e564d89-3d8b-4a1a-9050-f4a036055bf3",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715069232,
+      "nanoseconds": 293749000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:10.2369240",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715068793,
+      "nanoseconds": 31032000
+    },
+    "Level ID": "6403ea85-8900-40c0-b06f-06bbc2477520"
+  },
+  {
+    "Display Name": "Unknown",
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Powerup - Replace": {
+      "Max Charges": 0,
+      "Current Charges": 0
+    },
+    "Powerup - Undo": {
+      "Max Charges": 0,
+      "Current Charges": 0
+    },
+    "Powerup - Clear": {
+      "Current Charges": 0,
+      "Max Charges": 0
+    },
+    "Date Created": {
+      "seconds": 1714454867,
+      "nanoseconds": 850935000
+    },
+    "Level ID": "",
+    "Time": "00:00:09.1194250"
+  },
+  {
+    "Date Created": {
+      "seconds": 1715081335,
+      "nanoseconds": 401442000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:19.3872470",
+    "Level ID": "34e9f9bd-1166-4540-8650-0795a257cb6f",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9"
+  },
+  {
+    "Date Created": {
+      "seconds": 1715069384,
+      "nanoseconds": 145617000
+    },
+    "Display Name": "Unknown",
+    "Time": "00:02:24.9739800",
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 8
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 3
+    },
+    "Level ID": "229cf217-e700-4df1-af7c-264fdc337b08",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715080204,
+      "nanoseconds": 550576000
+    },
+    "Display Name": "Unknown",
+    "Time": "00:01:01.8325070",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "8e564d89-3d8b-4a1a-9050-f4a036055bf3",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 18,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "dbff16d6-7689-4260-913a-8a5f4afb8b49",
+    "Display Name": "Unknown",
+    "Time": "00:00:50.4201130",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Date Created": {
+      "seconds": 1715080373,
+      "nanoseconds": 408061000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 15,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Time": "00:00:11.4217100",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Level ID": "0ba6bdc7-48a0-42cc-ae56-54db6f16ee1b",
+    "Date Created": {
+      "seconds": 1715166836,
+      "nanoseconds": 81612000
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Time": "00:00:13.3928770",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "d8527bb6-da64-43b7-8c51-0c67ea76cc39",
+    "Date Created": {
+      "seconds": 1715167058,
+      "nanoseconds": 358595000
+    },
+    "Display Name": "Unknown",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    }
+  },
+  {
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Time": "00:02:56.0291550",
+    "Display Name": "[FORCED]Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 4
+    },
+    "Powerup - Undo": {
+      "Current Charges": 9,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715071253,
+      "nanoseconds": 880190000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 0,
+      "Max Charges": 20
+    },
+    "Level ID": "6c29c07e-6901-4852-8596-83406e0e2430"
+  },
+  {
+    "Level ID": "a56e2915-7b7e-4ebc-b6d2-682e8b3fc816",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715083043,
+      "nanoseconds": 405993000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Time": "00:00:20.0810830",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "ad98bc88-3f15-4d30-b11e-6fdeb4e3c438",
+    "Time": "00:00:05.1121612",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Display Name": "Unknown",
+    "Date Created": {
+      "seconds": 1714461383,
+      "nanoseconds": 557112000
+    }
+  },
+  {
+    "Level ID": "1ddc132d-4851-4926-9a49-cb9c8ba29eca",
+    "Date Created": {
+      "seconds": 1715070295,
+      "nanoseconds": 871345000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Time": "00:01:35.7334910",
+    "Powerup - Replace": {
+      "Current Charges": 16,
+      "Max Charges": 20
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    }
+  },
+  {
+    "Profile ID": "55e2ab09-6680-4a3e-823a-5d46f1a1c1fd",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "229cf217-e700-4df1-af7c-264fdc337b08",
+    "Time": "00:00:57.6784530",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715166566,
+      "nanoseconds": 965888000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 5,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715165236,
+      "nanoseconds": 895400000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:11.2545580",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "b9a788aa-ee21-484d-b460-f0109ff61e15"
+  },
+  {
+    "Powerup - Replace": {
+      "Current Charges": 0,
+      "Max Charges": 20
+    },
+    "Level ID": "352d84a3-3970-4648-a51d-9e095e412006",
+    "Time": "00:28:14.6145240",
+    "Profile ID": "18cb090c-237e-49ff-b545-992ba18bb539",
+    "Date Created": {
+      "seconds": 1715155989,
+      "nanoseconds": 291297000
+    },
+    "Display Name": "[FORCED]Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 4
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 0
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715166936,
+      "nanoseconds": 657011000
+    },
+    "Time": "00:00:11.3116920",
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "14193fff-23c6-4be0-aeeb-57fbe330babc"
+  },
+  {
+    "Date Created": {
+      "seconds": 1715167130,
+      "nanoseconds": 259980000
+    },
+    "Display Name": "[FORCED]Unknown",
+    "Powerup - Clear": {
+      "Current Charges": 4,
+      "Max Charges": 5
+    },
+    "Time": "00:00:18.0745600",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Level ID": "2dea18eb-b821-4cc8-a14b-ed16c9546553",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    }
+  },
+  {
+    "Time": "00:00:09.3780391",
+    "Date Created": {
+      "seconds": 1714455335,
+      "nanoseconds": 507398000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "",
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 3,
+      "Current Charges": 3
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Powerup - Replace": {
+      "Max Charges": 3,
+      "Current Charges": 0
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Date Created": {
+      "seconds": 1715157679,
+      "nanoseconds": 395896000
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Level ID": "4f4c1ee3-0216-4c71-98d9-970cfab62baa",
+    "Time": "00:00:10.9588030",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 18
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Time": "00:00:31.6122000",
+    "Date Created": {
+      "seconds": 1715079159,
+      "nanoseconds": 659459000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "18cb090c-237e-49ff-b545-992ba18bb539",
+    "Display Name": "Unknown",
+    "Level ID": "6403ea85-8900-40c0-b06f-06bbc2477520"
+  },
+  {
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c",
+    "Level ID": "2bbda9d0-a37a-40c7-9cbc-177add5b6b53",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Time": "00:00:17.1060350",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Date Created": {
+      "seconds": 1715063717,
+      "nanoseconds": 281373000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1714454984,
+      "nanoseconds": 696326000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 3,
+      "Max Charges": 3
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Level ID": "",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 7
+    },
+    "Powerup - Clear": {
+      "Max Charges": 3,
+      "Current Charges": 3
+    },
+    "Time": "00:00:09.3671305"
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:10.7142330",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715063787,
+      "nanoseconds": 74556000
+    },
+    "Level ID": "a368e52b-ad86-4ac1-a7c3-b1f828005e71",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Profile ID": "1827e9d0-57c4-48bd-be20-14e1be95f36c"
+  },
+  {
+    "Time": "00:02:18.4439130",
+    "Level ID": "6d7c83f8-5bd0-4364-bff0-69242fea3d61",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 13
+    },
+    "Date Created": {
+      "seconds": 1715070543,
+      "nanoseconds": 175275000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 9,
+      "Max Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1"
+  },
+  {
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "b9be78cc-b415-45f7-a880-522c28438400",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715165364,
+      "nanoseconds": 182953000
+    },
+    "Time": "00:00:18.0261280"
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Level ID": "5c486904-33bc-4600-9b2d-29a967d87f49",
+    "Time": "00:00:05.5852680",
+    "Date Created": {
+      "seconds": 1715068776,
+      "nanoseconds": 752823000
+    }
+  },
+  {
+    "Level ID": "c9f990a6-bc54-40a6-be80-db78944ea297",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 8
+    },
+    "Time": "00:00:24.5699770",
+    "Date Created": {
+      "seconds": 1715082869,
+      "nanoseconds": 200103000
+    }
+  },
+  {
+    "Date Created": {
+      "seconds": 1715165382,
+      "nanoseconds": 764450000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Level ID": "27c13410-bf7a-48f7-85f7-d9ed9f13a312",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:15.7891310",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Display Name": "[FORCED]Unknown"
+  },
+  {
+    "Level ID": "30f406c9-5c8e-4241-8aaa-142754d782b9",
+    "Date Created": {
+      "seconds": 1715166471,
+      "nanoseconds": 965036000
+    },
+    "Profile ID": "55e2ab09-6680-4a3e-823a-5d46f1a1c1fd",
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 14
+    },
+    "Time": "00:00:37.4537380"
+  },
+  {
+    "Display Name": "Unknown",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:36.0204410",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "b8d06dea-5a8b-428e-9149-dc17c2665684",
+    "Date Created": {
+      "seconds": 1715157448,
+      "nanoseconds": 349919000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Current Charges": 18,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "18cb090c-237e-49ff-b545-992ba18bb539",
+    "Date Created": {
+      "seconds": 1715079066,
+      "nanoseconds": 747976000
+    },
+    "Time": "00:00:29.0420410",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 19
+    },
+    "Level ID": "fa790b9f-3be2-45df-8695-a9642fc83d99",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715079209,
+      "nanoseconds": 911754000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Level ID": "30f406c9-5c8e-4241-8aaa-142754d782b9",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:00:43.6673810",
+    "Profile ID": "18cb090c-237e-49ff-b545-992ba18bb539"
+  },
+  {
+    "Level ID": "5c486904-33bc-4600-9b2d-29a967d87f49",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715084904,
+      "nanoseconds": 522301000
+    },
+    "Profile ID": "226eafd0-078b-49f9-8c12-07e139bf2547",
+    "Display Name": "Unknown",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 17
+    },
+    "Time": "00:00:12.9438890",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Level ID": "979590f1-352e-42a5-b171-989e05faf5f5",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Time": "00:00:14.8540490",
+    "Date Created": {
+      "seconds": 1715165204,
+      "nanoseconds": 949944000
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Display Name": "Unknown"
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:10.5545430",
+    "Date Created": {
+      "seconds": 1715165316,
+      "nanoseconds": 986938000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 19
+    },
+    "Level ID": "b3983f1f-2b6b-4f7c-88dd-8e016b411622",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    }
+  },
+  {
+    "Time": "00:00:15.2939830",
+    "Date Created": {
+      "seconds": 1715151572,
+      "nanoseconds": 59972000
+    },
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Level ID": "ec9522ae-3332-45bb-a35c-084138437c0b",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    }
+  },
+  {
+    "Display Name": "Unknown",
+    "Profile ID": "c49fbf1c-e142-42ec-bed0-85086dc96a76",
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Level ID": "86d10202-e725-4aa3-abea-beff08c13558",
+    "Time": "00:00:07.5245130",
+    "Date Created": {
+      "seconds": 1715050924,
+      "nanoseconds": 737258000
+    },
+    "Powerup - Replace": {
+      "Current Charges": 20,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Time": "00:00:11.0119120",
+    "Display Name": "Unknown",
+    "Level ID": "f4b457d8-3a6f-4b09-a779-fc4d2134e03c",
+    "Date Created": {
+      "seconds": 1715165288,
+      "nanoseconds": 954744000
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Current Charges": 6,
+      "Max Charges": 20
+    },
+    "Powerup - Undo": {
+      "Current Charges": 8,
+      "Max Charges": 10
+    },
+    "Display Name": "Unknown",
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "352d84a3-3970-4648-a51d-9e095e412006",
+    "Date Created": {
+      "seconds": 1715069569,
+      "nanoseconds": 112623000
+    },
+    "Time": "00:02:58.2693130"
+  },
+  {
+    "Time": "00:00:23.2926420",
+    "Level ID": "8739ad28-bcfe-40dd-beb2-e0f6e6ec2969",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Display Name": "Unknown",
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Current Charges": 19,
+      "Max Charges": 20
+    },
+    "Date Created": {
+      "seconds": 1715080417,
+      "nanoseconds": 654277000
+    }
+  },
+  {
+    "Level ID": "1dc28dc8-5de5-47a9-bc42-ae887bd8a3e6",
+    "Time": "01:36:39.4985920",
+    "Date Created": {
+      "seconds": 1715157379,
+      "nanoseconds": 387525000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 16
+    },
+    "Display Name": "Unknown",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9"
+  },
+  {
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Time": "00:00:12.3226860",
+    "Profile ID": "c49fbf1c-e142-42ec-bed0-85086dc96a76",
+    "Date Created": {
+      "seconds": 1715054785,
+      "nanoseconds": 950899000
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    },
+    "Display Name": "Unknown",
+    "Level ID": "7c50a462-5245-41ab-be1c-8e8c6bafa6f9"
+  },
+  {
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Date Created": {
+      "seconds": 1715165223,
+      "nanoseconds": 481725000
+    },
+    "Level ID": "ffac2840-b04b-4136-b425-4485b92d5203",
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Time": "00:00:16.3083770",
+    "Display Name": "Unknown"
+  },
+  {
+    "Time": "00:00:13.0590980",
+    "Date Created": {
+      "seconds": 1715165144,
+      "nanoseconds": 251897000
+    },
+    "Display Name": "[FORCED]Unknown",
+    "Level ID": "0129e221-2574-436f-8aca-6e0c160987df",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Profile ID": "a514a3eb-74cc-4e3b-9370-6f1518f7fad9",
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 20
+    },
+    "Powerup - Clear": {
+      "Current Charges": 5,
+      "Max Charges": 5
+    }
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 14
+    },
+    "Date Created": {
+      "seconds": 1715070402,
+      "nanoseconds": 417997000
+    },
+    "Level ID": "47247d6d-9c60-4269-8892-e740c6d82055",
+    "Powerup - Undo": {
+      "Max Charges": 10,
+      "Current Charges": 10
+    },
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Time": "00:01:42.7002190",
+    "Profile ID": "f58dab8a-e730-420b-b470-60a65e8e5ee1",
+    "Display Name": "Unknown"
+  },
+  {
+    "Powerup - Replace": {
+      "Max Charges": 20,
+      "Current Charges": 18
+    },
+    "Profile ID": "2741a04b-bc8c-424e-b6ce-d3f3a87021f7",
+    "Date Created": {
+      "seconds": 1714461402,
+      "nanoseconds": 88610000
+    },
+    "Powerup - Undo": {
+      "Current Charges": 10,
+      "Max Charges": 10
+    },
+    "Time": "00:00:06.2811718",
+    "Display Name": "Unknown",
+    "Powerup - Clear": {
+      "Max Charges": 5,
+      "Current Charges": 5
+    },
+    "Level ID": "7678686c-0ace-4bb7-8e99-9ce5246ebb6a"
+  }
+]
