@@ -108,7 +108,7 @@ function App() {
     }
 
     const PLAY_PER_LEVEL_CONTAINER = (
-        <ResponsiveContainer width="80%" height="80%">
+        <ResponsiveContainer width="100%" height="100%">
             <BarChart margin={{ top: 0, right: 0, left: 0, bottom: 0 }} data={perLevelData} onClick={(e) => SetClickedLevelId(parseInt(e.activeLabel || "0"))} onMouseMove={(e) => setSelectedLevelId(parseInt(e.activeLabel || "0"))}>
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="name" />
@@ -122,7 +122,7 @@ function App() {
     )
 
     const TIME_PER_LEVEL_CONTAINER = (
-        <ResponsiveContainer width="80%" height="80%">
+        <ResponsiveContainer width="100%" height="100%">
             <BarChart margin={{ top: 0, right: 0, left: 0, bottom: 0 }} data={perLevelData} onClick={(e) => SetClickedLevelId(parseInt(e.activeLabel || "0"))} onMouseMove={(e) => setSelectedLevelId(parseInt(e.activeLabel || "0"))}>
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="name" />
@@ -167,11 +167,11 @@ function App() {
                 </div>
                 {/*{feedbacks.map((val, el) => (<div key={"feedback " + el}>{val['Display Name']}</div>))}*/}
                 <div style={{ width: "100%", height: "100%", display: 'inline-flex' }}>
-                    <div style={{ width: "80%", height: "100%" }}>
+                    <div style={{ width: "70%", height: "100%" }}>
                         {(currentWindow === "PLAY_PER_LEVEL") ? PLAY_PER_LEVEL_CONTAINER : null}
                         {(currentWindow === "TIME_PER_LEVEL") ? TIME_PER_LEVEL_CONTAINER : null}
                     </div>
-                    <div style={{ width: "20%", height: "100%" }}>
+                    <div style={{ width: "30%", height: "100%" }}>
                         <div>Level {getCurrentLevelId() + 1}</div>
                         <div>ID {leveldatas.LevelIDs[getCurrentLevelId()]}</div>
                         {perLevelData[getCurrentLevelId()] && perLevelData[getCurrentLevelId()].time.map((val) => (<div>{new Date(val * 1000).toISOString().slice(11, 19)}</div>))}
