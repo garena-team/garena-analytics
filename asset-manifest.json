@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/garena-analytics/static/css/main.e7f19640.css",
-    "main.js": "/garena-analytics/static/js/main.3da798c9.js",
+    "main.css": "/garena-analytics/static/css/main.685552c4.css",
+    "main.js": "/garena-analytics/static/js/main.c96ea92c.js",
     "static/js/453.ee9502ec.chunk.js": "/garena-analytics/static/js/453.ee9502ec.chunk.js",
     "index.html": "/garena-analytics/index.html",
-    "main.e7f19640.css.map": "/garena-analytics/static/css/main.e7f19640.css.map",
-    "main.3da798c9.js.map": "/garena-analytics/static/js/main.3da798c9.js.map",
+    "main.685552c4.css.map": "/garena-analytics/static/css/main.685552c4.css.map",
+    "main.c96ea92c.js.map": "/garena-analytics/static/js/main.c96ea92c.js.map",
     "453.ee9502ec.chunk.js.map": "/garena-analytics/static/js/453.ee9502ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7f19640.css",
-    "static/js/main.3da798c9.js"
+    "static/css/main.685552c4.css",
+    "static/js/main.c96ea92c.js"
   ]
 }
