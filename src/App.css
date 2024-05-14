@@ -46,11 +46,14 @@
   }
 }
 
-.Puzzle table, td, th {
-    border: 1px solid gray;
+.Puzzle {
+    font-size: 14px;
 }
 
-.Puzzle td {
+.PuzzleBoard table, td, th {
+}
+
+.PuzzleBoard td {
     width: 10px;
     height: 10px;
 }

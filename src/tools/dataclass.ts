@@ -21,3 +21,9 @@ export interface PerLevelData {
     time: number[],
     aveTime: number
 }
+
+export interface PerRuleData {
+    name: string,
+    time: number[],
+    aveTime: number
+}
