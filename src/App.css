@@ -57,3 +57,8 @@
     width: 10px;
     height: 10px;
 }
+
+.customXAxis > .recharts-cartesian-axis-ticks > .recharts-cartesian-axis-tick {
+    font-size: 0.6rem;
+    font-family: Roboto, sans-serif;
+}
