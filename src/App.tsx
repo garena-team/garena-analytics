@@ -36,12 +36,15 @@ const LEVEL_DATA: LevelData = {
     LevelGrids: []
 }
 const imported_level_data: any[] = [{
-    data: leveldatas1,
-    cutoff_date: new Date('May 14, 2024'),
-}, {
-    data: leveldatas2,
-    cutoff_date: new Date(),
-}]
+        data: leveldatas1,
+        cutoff_date: new Date('May 14, 2024'),
+    }, {
+        data: leveldatas2,
+        cutoff_date: new Date('May 24, 2024'),
+    }, {
+        data: leveldatas2,
+        cutoff_date: new Date(),
+    }]
 imported_level_data.forEach((imported_data, idx) => {
     let data: LevelData = imported_data.data;
     for (var i = 0; i < data.LevelIDs.length; i++) {
@@ -83,6 +86,8 @@ function App() {
     //const [isRefreshing, setIsRefreshing] = useState<boolean>(true)
     const [dataVersion, setDataVersion] = useState<number>(0)
 
+    const [modalElement, setModalElement] = useState<any>(null)
+
     const getLevelData = () => {
         return LEVEL_DATA;
     }
@@ -94,7 +99,7 @@ function App() {
         //    return tempfeedbackdata["documents"].filter(el => new Date(el.fields['Date Created'].timestampValue) < BUILD_2_TIME);
         //}
         //return tempfeedbackdata["documents"].filter(el => new Date(el.fields['Date Created'].timestampValue) < BUILD_1_TIME);
-        return tempfeedbackdata["documents"];
+        return tempfeedbackdata;
     }
 
     //useEffect(() => {
@@ -132,26 +137,27 @@ function App() {
         }
 
         feedback = feedback.map((val) => {
-            return { ...val, 'Level ID': getLevelData().LevelIDs[getLevelData().LevelIDs.indexOf(val.fields['Level ID'].stringValue) - ((new Date(val.createTime) < new Date("May 14, 2024")) ? 1 : 0)] }
+            val['Level ID'] = getLevelData().LevelIDs[getLevelData().LevelIDs.indexOf(val['Level ID'])];
+            return { ...val }
         })
         if (isDataFiltered) {
             // filter invalid times
             feedback = feedback.filter((val) => {
-                if (parseTimeSpanString(val.fields.Time.stringValue) > 60 * 60) {
+                if (parseTimeSpanString(val.Time) > 60 * 60) {
                     return false
                 }
-                if (val.fields['Display Name'].stringValue === "DEVELOPER") {
+                if (val['Display Name'] === "DEVELOPER") {
                     return false
                 }
                 return true;
             })
         }
         feedback = feedback.filter((val) => {
-            let idx = LEVEL_DATA.LevelIDs.indexOf(val.fields['Level ID'].stringValue);
-            if (new Date(val.createTime) < START_DATE) {
+            let idx = LEVEL_DATA.LevelIDs.indexOf(val['Level ID']);
+            if (new Date(val['Date Created']) < START_DATE) {
                 return false;
             }
-            if (new Date(val.createTime) > END_DATE) {
+            if (new Date(val['Date Created']) > END_DATE) {
                 return false;
             }
             if (idx === -1) {
@@ -165,10 +171,10 @@ function App() {
     useEffect(() => {
         const leveldata: { [LevelID: string]: FeedbackData[] } = {}
         feedbacks.forEach((feedback) => {
-            if (!(feedback.fields['Level ID'].stringValue in leveldata)) {
-                leveldata[feedback.fields['Level ID'].stringValue] = []
+            if (!(feedback['Level ID'] in leveldata)) {
+                leveldata[feedback['Level ID']] = []
             }
-            leveldata[feedback.fields['Level ID'].stringValue].push(feedback);
+            leveldata[feedback['Level ID']].push(feedback);
         })
         let perLevelData: PerLevelData[] = []
         let perRuleData: { [id: string]: PerRuleData } = {}
@@ -177,19 +183,26 @@ function App() {
             let lidx = LEVEL_DATA.LevelIDs.indexOf(levelString);
             if (levelString in leveldata) {
                 let times: number[] = []
+                let userString: string[] = []
                 let aveTime = 0;
+                let aveCount = 0;
                 leveldata[levelString].forEach((val) => {
-                    let time = parseTimeSpanString(val.fields.Time.stringValue);
+                    if (val['Display Name'].startsWith("[FORCED]")) {
+                        return
+                    }
+                    let time = parseTimeSpanString(val.Time);
                     aveTime += time
+                    aveCount += 1
                     times.push(time)
-                    getLevelData().LevelGrids[idx].Rules.forEach((rule) => {
+                    userString.push(val['Profile ID'])
+                    getLevelData().LevelGrids[lidx].Rules.forEach((rule) => {
                         if (rule in perRuleData) {
                             perRuleData[rule].time.push(time);
                         } else {
                             perRuleData[rule] = { name: rule, time: [time], aveTime: 0 }
                         }
                     })
-                    let d = new Date(val.fields['Date Created'].timestampValue);
+                    let d = new Date(val['Date Created']);
                     d.setHours(0, 0, 0, 0);
                     let date = d.getTime();
                     if (date in perDateData) {
@@ -203,15 +216,17 @@ function App() {
                 let forced = 0;
                 let notForced = 0;
                 leveldata[levelString].forEach((val) => {
-                    if (val.fields['Display Name'].stringValue.startsWith("[FORCED]")) {
+                    if (val['Display Name'].startsWith("[FORCED]")) {
                         forced++;
                     } else {
                         notForced++;
                     }
                 })
 
-                aveTime /= leveldata[levelString].length;
-                perLevelData.push({ name: LEVEL_DATA.LevelNames[lidx], count: notForced, forced: forced, time: times, aveTime: aveTime })
+                if (aveCount !== 0) {
+                    aveTime /= aveCount
+                }
+                perLevelData.push({ id: levelString, name: LEVEL_DATA.LevelNames[lidx], count: notForced, forced: forced, time: times, aveTime: aveTime, userString: userString })
             }
         });
         Object.keys(perRuleData).forEach((key) => {
@@ -228,13 +243,39 @@ function App() {
     }, [feedbacks])
 
     const SetClickedDisplayElement = (payload: IndexedLabel) => {
-        let lidx = LEVEL_DATA.LevelNames.indexOf(payload.label);
-        let data = getCurrentLevelData(payload.label, lidx);
+        if ((payload.id === 0) && (payload.label === "")) {
+            return;
+        }
+        let trackeddata = perLevelData[payload.id]
+        let lidx = 0;
+        for (var i = 0; i < getLevelData().LevelIDs.length; i++) {
+            if (getLevelData().LevelIDs[i] === trackeddata.id) {
+                lidx = i;
+                break;
+            }
+        }
+        let data = getCurrentLevelData(payload.label, payload.id, lidx);
         if (clickedDisplayElement === data) {
             setClickedDisplayElement(null)
         } else {
             setClickedDisplayElement(data)
         }
+    }
+
+    const SetHoverDisplayElement = (payload: IndexedLabel) => {
+        if ((payload.id === 0) && (payload.label === "")) {
+            return;
+        }
+        let trackeddata = perLevelData[payload.id]
+        let lidx = 0;
+        for (var i = 0; i < getLevelData().LevelIDs.length; i++) {
+            if (getLevelData().LevelIDs[i] === trackeddata.id) {
+                lidx = i;
+                break;
+            }
+        }
+        let data = getCurrentLevelData(payload.label, payload.id, lidx);
+        setHoverDisplayElement(data)
     }
 
     const GetRuleData = (id: number | undefined) => {
@@ -257,8 +298,7 @@ function App() {
                 onClick={(e) => {
                     SetClickedDisplayElement({ id: e.activeTooltipIndex || 0, label: e.activeLabel || "" })
                 }}
-                onMouseMove={(e) => setHoverDisplayElement(
-                    getCurrentLevelData(e.activeLabel || "", LEVEL_DATA.LevelNames.indexOf(e.activeLabel || "")))}
+                onMouseMove={(e) => SetHoverDisplayElement({ id: e.activeTooltipIndex || 0, label: e.activeLabel || "" })}
                 onMouseLeave={() => setHoverDisplayElement(null)}>
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="name" angle={-90} textAnchor='end' interval={0} className="customXAxis" />
@@ -273,7 +313,7 @@ function App() {
 
     const TIME_PER_LEVEL_CONTAINER = (
         <ResponsiveContainer width="100%" height="100%">
-            <BarChart margin={{ top: 0, right: 0, left: 0, bottom: 0 }} data={perLevelData} onClick={(e) => SetClickedDisplayElement({ id: e.activeTooltipIndex || 0, label: e.activeLabel || "" })} onMouseMove={(e) => setHoverDisplayElement(getCurrentLevelData(e.activeLabel || "", LEVEL_DATA.LevelNames.indexOf(e.activeLabel || "")))} onMouseLeave={() => setHoverDisplayElement(null)}>
+            <BarChart margin={{ top: 0, right: 0, left: 0, bottom: 0 }} data={perLevelData} onClick={(e) => SetClickedDisplayElement({ id: e.activeTooltipIndex || 0, label: e.activeLabel || "" })} onMouseMove={(e) => SetHoverDisplayElement({ id: e.activeTooltipIndex || 0, label: e.activeLabel || "" })} onMouseLeave={() => setHoverDisplayElement(null)}>
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="name" angle={-90} textAnchor='end' interval={0} className="customXAxis" />
                 <YAxis />
@@ -328,17 +368,19 @@ function App() {
         return "#808080"
     }
 
-    const getCurrentLevelData = (label: string, idx: number) => {
-        if (idx === -1) {
+    const getCurrentLevelData = (label: string, per_idx: number, l_idx: number) => {
+        if (per_idx === -1) {
             return null;
         }
         return (<>
             <div>{label}</div>
-            <div>ID {getLevelData().LevelIDs[idx]}</div>
-            {perLevelData[idx] && perLevelData[idx].time.map((val) => (<div>{new Date(val * 1000).toISOString().slice(11, 19)}</div>))}
-            {getLevelData().LevelGrids[idx].Rules.map((val) => (<div>{val}</div>))}
+            <div>ID {getLevelData().LevelIDs[l_idx]}</div>
+            <button onClick={() => setModalElement(<div style={{ display: "flex", alignItems: "center", flexDirection: "column" }}>{perLevelData[per_idx] && perLevelData[per_idx].time.map((val) => (<div style={{ color: "black" }} >{new Date(val * 1000).toISOString().slice(11, 19)}</div>))}</div>)}>View Completion Times</button>
+            <button onClick={() => setModalElement(<div style={{ display: "flex", alignItems: "center", flexDirection: "column" }}>{perLevelData[per_idx] && perLevelData[per_idx].userString.map((val) => (<div style={{ color: "black" }} >{val}</div>))}</div>)}>View Users Completed</button>
+            <div>{new Date(perLevelData[per_idx].aveTime * 1000).toISOString().slice(11, 19)}</div>
+            {getLevelData().LevelGrids[l_idx].Rules.map((val) => (<div>{val}</div>))}
             <table className="PuzzleBoard">
-                {renderGrid(idx)}
+                {renderGrid(l_idx)}
             </table>
         </>)
     }
@@ -358,12 +400,17 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
+                {modalElement ? <div className="modal">
+                    <div>
+                        <span className="close" onClick={() => setModalElement(null)}>&times;</span>
+                        {modalElement}
+                    </div>
+                </div> : null}
                 <div>
                     <div>Data Filter <input type="checkbox" checked={isDataFiltered} onClick={() => setIsDataFiltered(val => !val)} /></div>
                     <div>
                         <select id="build" onChange={(e) => setDataVersion(parseInt(e.target.value))}>
-                            <option value="0">Build 1</option>
-                            <option value="1">Build 2</option>
+                            {imported_level_data.map((val, idx) => (<option value={idx}>Build {idx + 1}</option>))}
                         </select>
                     </div>
                     <button disabled={currentWindow === "PLAY_PER_LEVEL"} onClick={() => setCurrentWindow("PLAY_PER_LEVEL")}>Plays per Level</button>

@@ -1,60 +1,23 @@
+
 export interface FeedbackData {
-    "name": string,
-    "fields": {
-        "Date Created": {
-            "timestampValue": string
-        },
-        "Time": {
-            "stringValue": string
-        },
-        "Powerup - Undo": {
-            "mapValue": {
-                "fields": {
-                    "Current Charges": {
-                        "integerValue": string
-                    },
-                    "Max Charges": {
-                        "integerValue": string
-                    }
-                }
-            }
-        },
-        "Display Name": {
-            "stringValue": string
-        },
-        "Powerup - Replace": {
-            "mapValue": {
-                "fields": {
-                    "Current Charges": {
-                        "integerValue": string
-                    },
-                    "Max Charges": {
-                        "integerValue": string
-                    }
-                }
-            }
-        },
-        "Level ID": {
-            "stringValue": string
-        },
-        "Profile ID": {
-            "stringValue": string
-        },
-        "Powerup - Clear": {
-            "mapValue": {
-                "fields": {
-                    "Current Charges": {
-                        "integerValue": string
-                    },
-                    "Max Charges": {
-                        "integerValue": string
-                    }
-                }
-            }
-        }
+    "Display Name": string,
+    "Date Created": string,
+    "Level ID": string,
+    "Profile ID": string,
+    "Time": string,
+    "Powerup - Undo": {
+        "Current Charges": number,
+        "Max Charges": number
     },
-    "createTime": string,
-    "updateTime": string
+    "Powerup - Replace": {
+        "Current Charges": number,
+        "Max Charges": number
+    },
+    "Powerup - Clear": {
+        "Current Charges": number,
+        "Max Charges": number
+    },
+    "id": string
 }
 
 export interface ResourceData {
@@ -63,10 +26,12 @@ export interface ResourceData {
 }
 
 export interface PerLevelData {
+    id: string,
     name: string,
     count: number,
     forced: number,
     time: number[],
+    userString: string[],
     aveTime: number
 }
 

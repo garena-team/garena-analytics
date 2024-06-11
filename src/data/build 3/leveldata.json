@@ -1,0 +1,581 @@
+{
+  "LevelNames": [ "R 79", "R 58", "R 3", "R 92", "R 15", "R 99", "R 13", "R 84", "R 17", "R 7", "L7", "R 18", "R 88", "R 14", "R 32", "R 76", "R 54", "L5", "L10", "R 44", "L1", "R 75", "R 60", "R 29", "R 91", "R 40", "R 80", "L12", "L4", "R 24", "R 31", "R 70", "R 11", "R 4", "L8", "L14", "R 47", "R 59", "R 68", "R 50", "R 62", "L13", "L2", "R 23", "R 64", "R 98", "R 89", "L9", "R 22", "R 19", "R 87", "R 66", "R 27", "R 52", "R 74", "R 34", "R 38", "R 53", "R 42", "R 55", "R 48", "R 85", "R 94", "R 33", "R 100", "R 35", "R 21", "R 83", "R 16", "R 46", "R 72", "R 56", "R 67", "R 8", "R 6", "R 57", "R 71", "R 49", "R 63", "R 93", "R 77", "R 65", "R 69", "R 95", "R 73", "R 61", "R 36", "R 12", "R 78", "R 43", "R 82", "R 1", "R 81", "R 30", "R 26", "R 37", "R 9", "R 86", "R 51", "R 2", "L3", "L11", "L15", "R 28", "R 20", "R 39", "R 97", "R 25", "R 90", "R 96", "R 41", "R 5", "R 10", "R 45", "L6" ],
+  "LevelIDs": [ "a5e672bb-9e9d-4cb7-9666-558470cf4647", "8ce0c559-7d85-4255-8204-ce64a68ae213", "befa179d-6a4f-41f9-8ff3-978f2edcb562", "dea9289b-1c8b-437b-b009-58027497c6bb", "92a12209-6172-4641-bcbd-d5ed9f1951e7", "36e6ed72-655c-4a9a-bf8d-d0488f39654c", "db491cf0-5a80-4c70-91fc-59e8a2975ca5", "e144f642-9f39-4426-bf52-e1e7ba24e2fb", "d5158787-17e3-4308-bf54-140e03c29504", "4d8bc6d1-cc70-4ed2-84c2-bdbfcb7bc59a", "8e564d89-3d8b-4a1a-9050-f4a036055bf3", "6d8d3cf2-5fcc-499f-a221-27e3393821fd", "b0be62cf-7ccc-4910-ab24-476f68438be8", "d05324d3-0bd4-48f1-a658-e56dcc17bea4", "9ddc7e3d-59fb-4943-aba4-11a610c7310c", "50fdaa47-788e-47ab-9283-198b21fab2d7", "3c9f0751-9e6f-4de8-884c-750a7e4df176", "6403ea85-8900-40c0-b06f-06bbc2477520", "dbff16d6-7689-4260-913a-8a5f4afb8b49", "9cff8d11-b52c-469b-8776-8e7c12b9d94d", "e109ac89-fdf1-413d-81eb-7d5a0fe2eee6", "300a3cff-1dd5-47f4-a6ac-b26fe4ef6bd8", "e73da348-fd55-4720-b49c-eef5d4335b33", "415e3ae0-9ca1-469e-ad52-60626ac77d49", "6cf1a461-63ba-409e-bdcd-6425ebc48b7e", "b1a716ca-2dc9-4a52-b397-319249885a48", "c89af431-7b0e-45ef-9dbd-0837e0b39fa6", "8739ad28-bcfe-40dd-beb2-e0f6e6ec2969", "5c486904-33bc-4600-9b2d-29a967d87f49", "2defcc39-064f-467c-bdfa-3ad669cd3910", "ca00a637-164b-4eb3-a6ba-f719ec7c3c58", "4549c9e8-88a1-4329-bc3b-1aee891f9cd3", "cf2b7368-781a-4574-a2e4-e56bddff5f3f", "b1ebad9f-8cf8-4cc2-a880-efa5b10d3fe8", "229cf217-e700-4df1-af7c-264fdc337b08", "47247d6d-9c60-4269-8892-e740c6d82055", "1ce300d6-1284-42fe-804c-84d152edf44f", "9bf75a71-d3c0-427a-adae-940d2d28013c", "669c9bb0-761c-4259-891a-590788b1ca38", "cd75200a-e8ad-4d0f-8304-fc33fb696c73", "253d602b-49cd-44f3-94ba-196f06b8257f", "1ddc132d-4851-4926-9a49-cb9c8ba29eca", "5a773d6e-3141-4f68-8df1-99336dacc8af", "63a8ed2f-5bb2-4148-b49f-045a338536d8", "b8e2294e-042e-49c7-bd66-a09245a7df6a", "d90eacb9-aa76-4888-84c7-bc2fb49012f7", "44e66491-48ac-42d7-92b8-0a5c26e6d98c", "352d84a3-3970-4648-a51d-9e095e412006", "0f86aec2-4803-4eb6-a233-350415f1155f", "b7907c79-17db-458f-860e-7d6340cb1727", "c4060f13-c4d5-4996-90cb-6f36d1282ddd", "d6857170-bcdb-4abc-9592-5ad1d648c1bf", "17938666-410b-42e8-8242-7d74e4cb3a64", "0ed07911-f045-4ae7-be60-0fe3feb275a1", "988d809c-b507-41e9-8df4-fbcdfa020c35", "5039daa5-6a9c-4071-a8fc-d993fb850301", "2c501d5a-1169-4e87-846b-f1aabade6e90", "5fcc4d85-a8b6-4cdc-b063-cc0c377d59e1", "cacab48b-acdc-4e20-8850-17f56f5de8c0", "e57d5d00-753f-49cc-8b2f-38f0242db6cf", "3f41d371-06d5-4edc-9b03-f51b6c1e6ff4", "c024b7f4-d5b5-451d-9d44-a27607e6d788", "891e7e81-7a51-4ea8-bea5-33d96f8c2bc3", "fbc09700-15ae-45db-a584-4caf92214448", "83600b66-6552-4bc9-aa4c-96d80b81e65b", "340c02bc-2067-450f-a35f-bf3564dbeb0a", "19c8cf00-bb1d-4f96-b2cc-0cb2c894da9f", "e93baa20-9a00-4472-adb4-55e121a25197", "3a932c53-fdf3-4677-89ca-82cd170a1243", "462fee0f-0135-4903-8b63-0a6f634cf971", "a656289d-a7a4-4835-accd-cb1b28fb428a", "c28ddc36-e3d0-42f7-ac89-c9a43306b704", "d1689bad-f01e-439c-afbc-5bb46ae300fe", "3306aaf5-3064-49f4-bc4f-1f1099cea3a2", "584c3619-18bf-4888-9aaf-ddfed5eefb44", "afa37004-ecf3-4d54-90e7-e6384ca1c619", "eadd7c5c-45e3-4e24-9f0e-88df1ac20166", "d2683d9a-e593-4b37-95e8-b7102ea0a979", "cc2912a2-180e-431a-afe8-e92f90f97a9a", "7198b03b-cd89-4988-9817-ed61673fd8db", "b4c394ac-a4f9-43df-be89-0c827ba6d8fe", "76b2de91-bd6b-4275-ad26-5c6e958bb84a", "efe4c140-d02f-4376-944b-bffc2e0fbf3c", "9e8014f0-2d5f-486d-a0b4-11249db9bf3e", "7d8a6249-0de9-4b93-9ca9-b35cb14d1819", "ba1b1a3a-93ed-4c03-8729-315884c84a4e", "d9b2a435-4334-4330-9a75-7254e8ee12de", "5313daa4-e3aa-4d7d-b9b8-98d7d236e279", "e9134d63-cba1-41b3-8f3f-c47a4ebfd7cf", "38668eca-12c9-41b5-bf67-c0d99f4490bb", "a7eaa5a4-d524-4ee0-8b40-1847c032d092", "63396bc4-f218-4670-a8ad-9a9c0ba57275", "2a667b0a-80b7-4556-838c-3913a94e84d9", "a295b1e7-a0f6-49d7-bed2-4aa16ef6e7d8", "401d72ac-a3d8-4963-a6d2-721bd5998873", "ad617b38-20ce-4f04-9309-b7b70c878243", "c975fef8-ee36-42de-addb-a2b498f0dd76", "1792b020-8c98-4776-bbf2-c1a0f816d450", "ce934afa-0656-495b-bfd1-28c7d2f4204f", "4e94c0aa-d03a-4f56-801d-3424a589b190", "fa790b9f-3be2-45df-8695-a9642fc83d99", "836b1c75-0e59-4a4f-8243-a9a055ed0ae6", "6d7c83f8-5bd0-4364-bff0-69242fea3d61", "ea0009de-1583-48ad-86ff-54c54391fa98", "cdd95d10-0add-434c-9a69-73e642573dab", "699cb784-05ad-4f13-a25c-19ded6f585ee", "aea1bd49-0b09-495b-bdea-c94758ff977c", "e9f10ba0-fcfb-4af0-9965-45d0615b0d43", "4ada948c-620e-4787-973a-5921c127d129", "58acb155-594d-4180-87d2-78851da7980c", "4497b5eb-aa12-43fc-99bd-fcf99303562d", "caf38df2-b398-4971-bbb8-635c04a7249a", "63244033-8c13-4371-b009-8d46b2f7fa34", "b49e2014-780c-4824-afaf-bd2713bf844b", "30f406c9-5c8e-4241-8aaa-142754d782b9" ],
+  "LevelGrids": [
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 3", "Black blocks must not form 2x2", "White blocks must not form 2x2", "Cyan blocks must be connected", "All Cyan blocks must not be set of 4", "Cyan blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4", "All White blocks must not be set of 4", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "White", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4", "All White blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must not form 2x2", "All Black blocks must be set of 3" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "All White blocks must be set of 7" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All White blocks must not be set of 4", "All Black blocks must be set of 2" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2", "All White blocks must be set of 4", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Cyan", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "White blocks must not form 2x2", "All Black blocks must be set of 2", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Black", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All White blocks must not be set of 5", "All Black blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 3, 3 ],
+      "GridData": [ "Unset", "Black", "Unset", "Unset", "White", "Unset", "White", "Unset", "White" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4", "All White blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 7, 5 ],
+      "GridData": [ "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "", "", "", "", "", "", "", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All White blocks must not be set of 4", "All Black blocks must be set of 2" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must be set of 4", "All White blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 9, 5 ],
+      "GridData": [ "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Cyan", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 3", "Black blocks must not form 2x2", "White blocks must not form 2x2", "Cyan blocks must be connected", "All Cyan blocks must not be set of 4", "Cyan blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Cyan", "Unset", "Unset", "Unset", "Cyan", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "White" ],
+      "Rules": [ "Fill the board", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 7, 5 ],
+      "GridData": [ "White", "Unset", "Unset", "Cyan", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "Black blocks must not form 2x2", "All White blocks must be set of 7", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 3, 3 ],
+      "GridData": [ "Unset", "Unset", "Unset", "White", "Unset", "White", "Black", "Unset", "Black" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4", "All White blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must not form 2x2", "All Black blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "White", "Black", "Unset", "Black", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must not form 2x2", "All Black blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 7, 9 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Cyan", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must not be set of 4", "All White blocks must not be set of 4", "All Black blocks must be set of 6", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "White" ],
+      "Rules": [ "Fill the board", "All Black blocks must be set of 4", "All White blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 8, 7 ],
+      "GridData": [ "Black", "Unset", "Cyan", "Unset", "Black", "Cyan", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Black" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "Black blocks must not form 2x2", "All Cyan blocks must not be set of 4", "Cyan blocks must not form 2x2", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 3, 5 ],
+      "GridData": [ "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "White blocks must not form 2x2", "All Black blocks must be set of 3" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Cyan", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Cyan", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "White blocks must not form 2x2", "All Black blocks must be set of 3", "All Cyan blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 7, 5 ],
+      "GridData": [ "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must not form 2x2", "All Black blocks must be set of 3" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Cyan", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "White", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must be set of 4", "All White blocks must be set of 4", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2", "All White blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "White", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must not form 2x2", "All Black blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must not be set of 4", "All White blocks must not be set of 4", "All Black blocks must be set of 6", "All White blocks must be set of 6", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must not form 2x2", "All Black blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "White", "Unset", "Black", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must not be set of 5", "Black blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must not form 2x2", "All Black blocks must be set of 3" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Unset", "Unset", "Unset", "White", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Unset", "White", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "White", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must be set of 5", "All Cyan blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Cyan", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2", "Cyan blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Cyan", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Cyan", "Unset", "Unset", "Black", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "White", "Unset" ],
+      "Rules": [ "Fill the board" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must not form 2x2", "All Black blocks must be set of 3" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must not be set of 5", "All White blocks must not be set of 5", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must not form 2x2", "All Black blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "White" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "White blocks must not form 2x2", "All Black blocks must be set of 3" ]
+    },
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "White", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "Black blocks must not form 2x2", "All White blocks must be set of 7", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must not be set of 5", "Black blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4", "All White blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White" ],
+      "Rules": [ "Fill the board", "All Black blocks must be set of 4", "All White blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Cyan", "White", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4", "All White blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2", "All White blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "All Cyan blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Cyan", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Cyan", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "Black blocks must not form 2x2", "All Cyan blocks must not be set of 4", "Cyan blocks must not form 2x2", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must not form 2x2", "All Black blocks must be set of 4", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "Black blocks must not form 2x2", "All Cyan blocks must not be set of 4", "Cyan blocks must not form 2x2", "All Cyan blocks must be set of 5" ]
+    },
+    {
+      "Dimensions": [ 10, 10 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "All White blocks must be set of 7" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "White", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All White blocks must not be set of 4", "All Black blocks must be set of 2" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "White", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 11, 11 ],
+      "GridData": [ "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Cyan", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must not be set of 4", "All White blocks must not be set of 4", "All Black blocks must be set of 6", "All White blocks must be set of 6", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "White" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "All White blocks must be set of 7" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Cyan", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2", "Cyan blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Cyan", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must not be set of 5", "Black blocks must not form 2x2", "All Cyan blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All Black blocks must be set of 4", "All White blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "Black", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2", "All White blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Cyan", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "All White blocks must be set of 7", "Cyan blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 9, 9 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 3, 3 ],
+      "GridData": [ "White", "Unset", "Black", "Unset", "White", "Unset", "Black", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 9, 11 ],
+      "GridData": [ "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Cyan", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 3", "Black blocks must not form 2x2", "White blocks must not form 2x2", "Cyan blocks must be connected", "All Cyan blocks must not be set of 4", "Cyan blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "White blocks must not form 2x2", "All Black blocks must be set of 3" ]
+    },
+    {
+      "Dimensions": [ 5, 5 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Black", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "All Black blocks must not be set of 5", "Black blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Cyan", "Cyan", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "All White blocks must not be set of 4", "All Black blocks must be set of 2", "All Cyan blocks must not be set of 4" ]
+    },
+    {
+      "Dimensions": [ 6, 6 ],
+      "GridData": [ "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "All White blocks must be set of 7" ]
+    },
+    {
+      "Dimensions": [ 12, 12 ],
+      "GridData": [ "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Cyan", "Black", "Black", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "White", "White", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "All Black blocks must not be set of 5", "All White blocks must not be set of 5", "Cyan blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 13, 13 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Cyan", "Cyan", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Cyan", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must not form 2x2", "All Black blocks must be set of 3", "Cyan blocks must be connected" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Unset", "Unset", "Black", "Black", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2", "White blocks must not form 2x2" ]
+    },
+    {
+      "Dimensions": [ 4, 4 ],
+      "GridData": [ "Unset", "White", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "White blocks must be connected", "White blocks must not form 2x2", "All Black blocks must be set of 3" ]
+    },
+    {
+      "Dimensions": [ 8, 8 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "White", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "White", "Unset", "White", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must not form 2x2", "All White blocks must be set of 4" ]
+    },
+    {
+      "Dimensions": [ 7, 7 ],
+      "GridData": [ "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Black", "Unset", "Unset", "Black", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset", "Unset" ],
+      "Rules": [ "Fill the board", "Black blocks must be connected", "White blocks must be connected", "Black blocks must not form 2x2" ]
+    }
+  ]
+}
